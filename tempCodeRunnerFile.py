@@ -1,5 +1,5 @@
-a=300
-# while(a<=600):
-#     if(a%3==0 and a%2==0):
-#         print(a)
-#     a=a+1
+nt(input("enter a number: "))
+# n=1
+# for n in range(1,i+1):
+#     if i%n==0:
+#         print(n)

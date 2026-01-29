@@ -422,3 +422,63 @@
 # while(b>=1):
 #     print(b)
 #     b=b-1
+
+                                                        #  29-01-2026                                
+
+# for i in range(0,101,2):
+#     print(i)
+
+# factoprial
+# n=12
+# i=1
+# while(i<=n):
+#     if n%i==0:
+#       print(i)
+#     i=i-1
+
+
+# i=1
+# n=12
+# while(i<=n):
+#     if n%i==0:   
+#         print(i)
+#     i=i+1   
+
+
+# i=int(input("enter a number: "))
+# n=1
+# for n in range(1,i+1):
+#     if i%n==0:
+#         print(n)
+
+
+# i=int(input("enter a number: "))
+# for n in range(i,0,-1):
+#     if i%n==0:
+#         print(n)
+
+
+#fibbonaci series 
+# n=int(input("enter a number: "))
+# a=0     
+# b=1
+
+# i=0
+# while(i<n):
+#     c=a+b
+#     a=b
+#     b=c
+#     print(c)
+#     i=i+a
+
+
+# n=int(input("enter a number: "))
+# a=0     
+# b=1
+# i=0
+# for i in range(0,n):
+#     c=a+b
+#     a=b
+#     b=c 
+#     print(c)
+#     i=i+a
