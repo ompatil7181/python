@@ -485,3 +485,21 @@
 
 b=int(input("enter a number: "))
 print(b)
+# n=int(input("enter a number: "))
+# if n%2!=0:
+#     print("weird")
+# else:
+#     if n>=2 and n<=5:
+#         print("Not weird")
+#     else:
+#         if n>=6 and n<=20:
+#             print("Weird")
+#         else:
+#             print("Not Weird")
+#         # print("Even number outside range 2-5")
+
+a = int(input("Enter first number: "))
+print(a)
+
+c = int(input("Enter first number: "))
+print(c)
