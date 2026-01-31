@@ -498,3 +498,6 @@
 
 a = int(input("Enter first number: "))
 print(a)
+
+c = int(input("Enter first number: "))
+print(c)
