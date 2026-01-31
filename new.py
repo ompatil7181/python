@@ -483,5 +483,5 @@
 #     print(c)
 #     i=i+a
 
-a=int(input("enter a number: "))
-print(a)
+b=int(input("enter a number: "))
+print(b)
