@@ -482,3 +482,6 @@
 #     b=c 
 #     print(c)
 #     i=i+a
+
+a=int(input("enter a number: "))
+print(a)
