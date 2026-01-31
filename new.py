@@ -483,15 +483,15 @@
 #     print(c)
 #     i=i+a
 
-n=int(input("enter a number: "))
-if n%2!=0:
-    print("weird")
-else:
-    if n>=2 and n<=5:
-        print("Not weird")
-    else:
-        if n>=6 and n<=20:
-            print("Weird")
-        else:
-            print("Not Weird")
-        # print("Even number outside range 2-5")
+# n=int(input("enter a number: "))
+# if n%2!=0:
+#     print("weird")
+# else:
+#     if n>=2 and n<=5:
+#         print("Not weird")
+#     else:
+#         if n>=6 and n<=20:
+#             print("Weird")
+#         else:
+#             print("Not Weird")
+#         # print("Even number outside range 2-5")
