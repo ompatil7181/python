@@ -495,3 +495,6 @@
 #         else:
 #             print("Not Weird")
 #         # print("Even number outside range 2-5")
+
+a = int(input("Enter first number: "))
+print(a)
