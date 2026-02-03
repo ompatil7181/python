@@ -483,8 +483,8 @@
 #     print(c)
 #     i=i+a
 
-b=int(input("enter a number: "))
-print(b)
+# b=int(input("enter a number: "))
+# print(b)
 # n=int(input("enter a number: "))
 # if n%2!=0:
 #     print("weird")
@@ -498,8 +498,69 @@ print(b)
 #             print("Not Weird")
 #         # print("Even number outside range 2-5")
 
-a = int(input("Enter first number: "))
-print(a)
+# a = int(input("Enter first number: "))
+# print(a)
 
-c = int(input("Enter first number: "))
-print(c)
+# c = int(input("Enter first number: "))
+# print(c)
+
+
+
+                                               #  03-02-2026
+
+# a=441
+# while(a>=350):
+#     print(a+2)
+#     a=a-1
+
+# for a in range(441,350,-2):
+#     print(a+1)
+
+# for a in range (75,25,-2):
+#     print(a-2)
+
+#prime number 
+# n=int(input("enter a number: "))
+# count=0 
+# i=2
+# while(i<n):
+#     if n%i==0:
+#         count=count+1
+#     i=i+1
+
+# if count==0:
+#     print("prime number")
+# else:
+#     print("not a prime number")
+
+# n=int(input("enter a number: "))
+# count=0 
+# for i in range(2,n):
+#     if n%i==0:
+#         count=count+1   
+
+# if count==0:
+#     print("prime number")
+# else:   
+#     print("not a prime number")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
